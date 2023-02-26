@@ -32,6 +32,9 @@
     <ClCompile Include="Omok.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="day4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Omok.rc">
